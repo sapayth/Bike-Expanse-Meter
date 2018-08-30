@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Options menu for the MainActivity -->
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_insert"
+        android:icon="@drawable/add_icon"
+        android:title="@string/save"
+        app:showAsAction="always" >
+    </item>
+
+    <item
+        android:id="@+id/action_report"
+        android:title="@string/report"
+        app:showAsAction="never" >
+    </item>
+
+    <item
+        android:id="@+id/action_credit"
+        android:title="@string/credit"
+        app:showAsAction="never" >
+    </item>
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="@string/setting"
+        app:showAsAction="never" >
+    </item>
+
+</menu>
