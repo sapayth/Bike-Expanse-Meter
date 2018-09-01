@@ -1,6 +1,4 @@
 # Bike-Expanse-Meter
-Bike Expense Meter is a simple, easy to use android application to track your motorcycle expenses. 
-
 
 ![feature graphic](https://user-images.githubusercontent.com/15567340/44940064-100bf780-adac-11e8-8d96-a7d8bc5ced57.jpg)
 
